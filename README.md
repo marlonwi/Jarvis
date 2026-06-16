@@ -216,5 +216,5 @@ Versões mais recentes (3.12+) ainda não têm suporte completo das libs de ML u
 
 **Marlon** — Estudante de Engenharia de Software (7º período)
 
-[![GitHub](https://img.shields.io/badge/GitHubmarlonwiblack?logo=github)](https://github.com/marlonwi)
-[![LinkedIn](https://img.shields.io/badge/LinkedInmarlonwilliamblue?logo=linkedin)](https://www.linkedin.com/in/marlonwilliam/)
+[![GitHub](https://img.shields.io/badge/GitHub-seu--usuario-black?logo=github)](https://github.com/marlonwi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-seu--perfil-blue?logo=linkedin)](https://www.linkedin.com/in/marlonwilliam/)
